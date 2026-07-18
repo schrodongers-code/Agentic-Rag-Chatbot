@@ -63,8 +63,6 @@ def create_vector_store(chunks, persist_directory="db/chroma_db"):
     """Create and persist ChromaDB vector store"""
     print("Creating embeddings and storing in ChromaDB...")
         
-    # FIXED: Cleaned up instantiation (Automatically grabs GOOGLE_API_KEY from environment)
-    # FIXED: Swapped to the reliable production embedding model identifier
     embedding_model = OllamaEmbeddings(
     model="nomic-embed-text"
 )

@@ -30,7 +30,6 @@ def main():
     tools = [retriever_tool]
     
     # 3. Initialize the LLM via OpenRouter
-    # We use Google's Gemini 2.5 Flash as it is fast, cheap, and supports tool calling
     llm = ChatOpenAI( model="google/gemma-4-26b-a4b-it:free", 
                        api_key=os.getenv("OPENROUTER_API_KEY"), base_url="https://openrouter.ai/api/v1" )
     
@@ -40,7 +39,7 @@ def main():
     # --- Example Executions ---
 
     # Query 1: Requires SpaceX knowledge (Agent will use the tool)
-    query_1 = input("Enter your Query") 
+    query_1 = input("Enter your Query :") 
     print(f"User Query 1: '{query_1}'")
     response_1 = agent.invoke({"messages": [("user", query_1)]})
     print(f"Agent Reply:\n{response_1['messages'][-1].content}\n")
