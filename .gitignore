@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Secrets and environment variables
+.env
+
+# Local Databases and indices
+db/
+*.sqlite3
+
+# Python caches and compiles
+__pycache__/
+*.pyc
+
+# Operating system files
+desktop.ini
+.DS_Store

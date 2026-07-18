@@ -1,0 +1,250 @@
+RAG TEST DOCUMENT: THE AURELIS KNOWLEDGE ENGINE
+
+Document ID: AK-77291
+Created for testing Retrieval Augmented Generation systems.
+
+====================================================
+
+INTRODUCTION
+
+The Aurelis Knowledge Engine (AKE) is a fictional experimental information architecture developed by the imaginary organization called Novara Intelligence Systems in the year 2034.
+
+The purpose of the Aurelis Knowledge Engine is to study how artificial intelligence systems can organize private knowledge collections and retrieve accurate information from specialized databases.
+
+Unlike ordinary search systems, the Aurelis Knowledge Engine does not search using keywords alone. It uses a three-dimensional memory structure consisting of Knowledge Nodes, Context Bridges, and Reliability Anchors.
+
+This document describes the complete fictional design, rules, and evaluation results of the Aurelis Knowledge Engine.
+
+====================================================
+
+1. ORIGIN OF THE AURELIS KNOWLEDGE ENGINE
+
+The first concept of the Aurelis Knowledge Engine was proposed by Dr. Mirel Tanovar during the Winter Research Conference of 2034.
+
+The initial prototype was created inside Laboratory 17B of Novara Intelligence Systems.
+
+The first version was called AKE-Alpha-01.
+
+The prototype contained only 2,481 knowledge fragments and could process approximately 17 queries per minute.
+
+After six months of experimentation, the system was upgraded to AKE-Beta-04.
+
+AKE-Beta-04 introduced a new retrieval mechanism called Context Gravity Mapping.
+
+Context Gravity Mapping allowed related information pieces to attract each other based on semantic importance.
+
+The development team discovered that information retrieval accuracy improved by 31.7 percent when Context Gravity Mapping was enabled.
+
+====================================================
+
+2. KNOWLEDGE NODE ARCHITECTURE
+
+The Aurelis system stores information using Knowledge Nodes.
+
+A Knowledge Node is a small independent unit containing:
+
+- Information content
+- Source confidence score
+- Creation timestamp
+- Relationship connections
+- Retrieval priority value
+
+Every Knowledge Node receives an identification code.
+
+The format of the identification code is:
+
+AKN-Year-Number
+
+Example:
+
+AKN-2034-00982
+
+The node AKN-2034-00982 contains information about the fictional researcher Liora Ven.
+
+Liora Ven was responsible for designing the first Context Bridge algorithm.
+
+====================================================
+
+3. CONTEXT BRIDGE SYSTEM
+
+Context Bridges are connections between different Knowledge Nodes.
+
+A Context Bridge has three properties:
+
+1. Connection Strength
+2. Relationship Type
+3. Directional Influence
+
+Connection Strength ranges from 0.00 to 1.00.
+
+A value above 0.75 indicates a highly connected relationship.
+
+The strongest Context Bridge recorded in the Aurelis system had a value of 0.963.
+
+This connection existed between:
+
+Node AKN-2034-00177
+and
+Node AKN-2034-00821
+
+The relationship type was classified as "Evolutionary Dependency".
+
+====================================================
+
+4. RELIABILITY ANCHORS
+
+Reliability Anchors are used to measure trust inside the Aurelis Knowledge Engine.
+
+Each information fragment receives a Reliability Anchor Score.
+
+The scoring formula is:
+
+Reliability Score =
+Source Stability × Verification Level × Temporal Accuracy
+
+The highest possible Reliability Anchor Score is 100.
+
+The fictional document titled "The Blue Archive of Neural Patterns" achieved a score of 98.4.
+
+The lowest recorded score was 12.7 for an experimental note named "Unconfirmed Cognitive Maps".
+
+====================================================
+
+5. UNIQUE AURELIS TERMINOLOGY
+
+The Aurelis system introduced several new terms.
+
+Aural Compression:
+
+A process where large knowledge collections are converted into smaller semantic representations while preserving important relationships.
+
+Memory Bloom:
+
+A situation where one retrieved document activates multiple related knowledge pathways.
+
+Silent Retrieval:
+
+A retrieval process where the system collects information without displaying intermediate reasoning.
+
+Knowledge Temperature:
+
+A value representing how frequently a piece of information is accessed.
+
+A document with a Knowledge Temperature above 90 is considered highly active.
+
+====================================================
+
+6. RETRIEVAL EXPERIMENTS
+
+The research team conducted a test called Experiment AR-55.
+
+The goal was to determine whether the Aurelis system could retrieve rare information correctly.
+
+The experiment used 5,000 fictional documents.
+
+Among these documents, 400 contained similar words but different meanings.
+
+The system achieved:
+
+Question Accuracy:
+94.8 percent
+
+Document Retrieval Accuracy:
+97.2 percent
+
+False Retrieval Rate:
+2.8 percent
+
+The researchers concluded that combining semantic similarity with Context Bridges improved retrieval quality.
+
+====================================================
+
+7. THE SILVER KEY PROTOCOL
+
+The Silver Key Protocol was a security mechanism inside Aurelis.
+
+It prevented unauthorized retrieval of sensitive knowledge nodes.
+
+The protocol contained four verification stages:
+
+Stage One:
+Identity validation.
+
+Stage Two:
+Knowledge access permission check.
+
+Stage Three:
+Context authorization.
+
+Stage Four:
+Final retrieval approval.
+
+The unique verification phrase used during testing was:
+
+"Silver clouds remember the seventh valley."
+
+This phrase has no meaning outside the Aurelis experimental environment.
+
+====================================================
+
+8. IMPORTANT FICTIONAL FACTS FOR RAG TESTING
+
+The following facts exist only inside this document.
+
+Question:
+Who created the Aurelis Knowledge Engine?
+
+Answer:
+Dr. Mirel Tanovar proposed the original concept.
+
+Question:
+What was the first prototype name?
+
+Answer:
+AKE-Alpha-01.
+
+Question:
+What algorithm was designed by Liora Ven?
+
+Answer:
+The Context Bridge algorithm.
+
+Question:
+What was the strongest Context Bridge value?
+
+Answer:
+0.963.
+
+Question:
+What was the highest Reliability Anchor Score?
+
+Answer:
+98.4.
+
+Question:
+What phrase activates the Silver Key Protocol?
+
+Answer:
+"Silver clouds remember the seventh valley."
+
+Question:
+What was the recommended chunk size for Aurelis testing?
+
+Answer:
+The experimental team used 423-token knowledge segments.
+
+====================================================
+
+9. FINAL NOTES
+
+The Aurelis Knowledge Engine is not a real-world technology. All names, organizations, measurements, protocols, researchers, and numerical values in this document are fictional.
+
+This document exists specifically for testing Retrieval Augmented Generation pipelines.
+
+A correctly configured RAG system should answer questions about Aurelis using this document.
+
+If the system cannot find information in this document, it should clearly state that the information is unavailable rather than inventing an answer.
+
+====================================================
+
+END OF DOCUMENT
